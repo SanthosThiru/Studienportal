@@ -19,6 +19,6 @@ WWI18DSA - Fallstudien - Studienportal-Projekt
 
 - Gruppen:
   - Daniel, 
-  - Björn, 
+  - Björn, Santhos 
   - Tamara, 
 
