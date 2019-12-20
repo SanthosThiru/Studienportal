@@ -10,10 +10,10 @@ WWI18DSA - Fallstudien - Studienportal-Projekt
 
 - Wo kommen Daten her: Vorhandene Datenbanken, Webseite, Moodle, Sekreteriat, User-Input
 
-## Rollenverteilung
-- Frontend-Design:
+## Rollenverteilung (vorläufig)
+- Frontend-Design: Lisa, Maria, Nick, Arnie, Santhos
 
-- Web-Development:
+- Web-Development: Tamara, Sepp, (Daniel, Björn)
 
-- Data-Development:
+- Data-Development: Daniel, Björn
 
